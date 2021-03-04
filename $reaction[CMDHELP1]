@@ -1,0 +1,14 @@
+$nomention
+$title[ aide pour le staff ]
+$description[_help-staff :
+_serverinfo : Permet de voir les informations du serveur.
+_adm-annonce : Permet de faire une annonce avec botty.
+_kick `@mention` raion: Expulse un membre du serveur. Celui-ci peut revenir à l’aide d’une invitation.
+_bak-ban `@mention` raison: Expulse définitivement un membre des serveurs sécurisés par BAK. Celui-ci ne peut plus revenir, pour plus d'info, `_bak-help`.
+_userinfo `@mention` : Permet d’obtenir des informations sur le compte de l’utilisateur.
+_bot-info : Permet d’obtenir des informations sur Botty.
+_lock `{#salon}` `{@everyone}` : Permet de bloquer le salon sélectionné.
+_unlock `{#salon}` `{@everyone}` : Permet de débloquer le salon sélectionné.
+_optiwork: montre le niveau de sécurité de botty sur une échelle de critères]
+$footer[Les caractères en surbrillance sont OBLIGATOIRES.| écrit par ! ๖̶ζ͜͡𝓟𝓪𝓾𝓵𝓸 10#5199]
+$onlyAdmin[:x: veuillez disposer de la perm suivante : `administrateur`]
