@@ -1,0 +1,7 @@
+$nomention 
+$ban
+$title[$customEmoji[VAC]bak-ban!]
+$description[Banni: <@$mentioned[1]>
+Ban par : <@$authorID>
+Raison: $noMentionMessage]
+$channelSendMessage[759776040296906753;<@$mentioned[1]> a été banni par <@$authorID> pour la raison $noMentionMessage :hammer:!]
