@@ -1,0 +1,36 @@
+$nomention
+$color[5b00ff]
+$author[Server Info]
+$serverInfo[
+$customEmoji[DB_premium]| **Owner**
+{owner} 
+
+$customEmoji[DC_setting]|**Nom du serveur**
+{name}
+
+$customEmoji[DC_setting]|**Région du serveur**
+{region}
+
+$customEmoji[DP_security_setting]|**niveau de sûreté**
+{verificationLvl}
+
+$customEmoji[DC_member]|**Membres (hors bot)** : $membersCount
+$customEmoji[DS_online]|**En ligne** : $membersCount[online]
+$customEmoji[DS_dnd]|**Ne pas déranger** : $membersCount[dnd]
+$customEmoji[DS_idle]|**Inactif** : $membersCount[idle]
+
+$customEmoji[DP_stat_setting]|**rôles** :
+nombre: $roleCount
+nom de tout lses rôles: $roleNames
+
+$customEmoji[DC_channelunlock]|**Nombres de salon**: 
+$channelCount
+
+$customEmoji[DB_richpresence]|**invitation tempotaire**:
+$getServerInvite
+
+:smiley:|**Nombres d'emotes**: 
+$emoteCount
+
+
+]
