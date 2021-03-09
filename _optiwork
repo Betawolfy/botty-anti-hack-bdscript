@@ -1,0 +1,24 @@
+$title[Botty est un bot de sécurité. Il est donc nécessaire, pour garantir le fonctionnement des modules, de donner à botty certaines permissions. Nous avons imaginé 4 configurations possibles et les conséquences entraînés:]
+$description[
+$customEmoji[DS_dnd]| aucune permission de moderation:
+Sécurité de la part de botty: nul 
+Souscription au programme Bak-secure: inéligible. 
+Souscription au programme Premium: inéligible 
+Autres: auto-leave du bot si le problème n'est pas réglé dans les 3 jours suivant le join du bot.
+
+$customEmoji[DS_idle]| permission minimale: 
+Sécurité de la part de botty: minimale
+Souscription au programme Bak-secure: inéligible 
+Souscription au programme Premium: possible. 
+
+$customEmoji[DB_bot]| permission optimale (perm admin): 
+Sécurité de la part de botty: moyenne
+Souscription au programme Bak-secure: éligible 
+Souscription au programme premium: éligible 
+
+
+$customEmoji[DB_verified_bot]| permission maximum (perm admin + rôle personnel du bot au-dessus des modo-admin (pour anti-trahison)): 
+Sécurité de la part de Botty: maximale.
+Souscription au programme Bak-secure: imposé 
+Souscription au programme premium: éligible. ]
+$footer[les serveurs inscrits dans "_serverlist" peuvent voir leurs niveau grâce au émoji qui précède les optimisations.]
