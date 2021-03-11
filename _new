@@ -3,7 +3,7 @@ $newTicket[ ticket;aucun sujet n'a été donné;Hello <@$authorID>!
 
 $customEmoji[report] merci d'avoir créer un ticket!
 
-merci d'écrir votre problème dans le ticket.
+merci d'écrire votre problème dans le ticket.
 
 **Subject**
-{subject};votre ticket a bien été  créé {channel};**error** merci de réessayer]
+{subject};votre ticket a bien été  créé. Allez dans le salon {channel};**erreur** merci de réessayer.]
