@@ -1,0 +1,28 @@
+$nomention
+
+$title[👨‍🚀Among Us :free:||:warning: clear du texte après 120 secondes||]
+$description[tu as vu$message $randomText[utiliser la ventilation! Tu décides donc faire un "emergency meeting".;tuer $randomUser! Tu te précipites sur le corps pour le report.;s'arrêter puis un sabotage à lieu! tu décides donc de faire un "emergency meeting"]
+
+👤 Player: $randomText[il se passe quoi?; ou?; qui?]
+👤 $username: je vous jure j'ai vu $message  $randomText[vent;kill;s'arrêter puis saboter. ]
+👤 $message                      
+No?! $randomText[$username sus; j'étais à electrical!; Votez $username; ce n'es pas moi, je vous le jure!]
+👤 Player 2                       
+$randomText[bon... votons...; rhaaaaa... je sais pas...; allez, je skip; je vote pour $username; je vote pour $message]       
+--------------------------------
+A few seconds later...
+
+👤 Player   Votes:                
+👤 Player 2 Votes:
+👤 $username Votes: ඞ                                    👤 $message Votes: ඞඞ                                             
+Skipped Voting:
+ඞ
+Après une discussion animée, suffisamment de votes ont été obtenus et $message a été éjecté. Voici les résultats... 
+'  .    '  .      　。　　　　•　    　ﾟ　　。
+　　.　　　.　　　  　　.　　　　　。　　   。　.
+ 　.　　      。　        ඞ   。　    .    •
+ •             $message $randomText[was;was not] the impostor.　 。　.
+　 　　。　　　　　　ﾟ　　　.　　　　　.
+,　　　　.　 .　　       .               。 
+||pour retirer le clear lag, demander à être premium sur le support.||]
+$editIn[120;_among us's clear lag.]
