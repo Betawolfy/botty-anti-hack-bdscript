@@ -1,7 +1,7 @@
 $nomention
 $newTicket[ ticket;aucun sujet n'a été donné;Hello <@$authorID>!
 
-$customEmoji[report] merci d'avoir créer un ticket!
+$customEmoji[AU_Report] merci d'avoir créer un ticket!
 
 merci d'écrire votre problème dans le ticket.
 
