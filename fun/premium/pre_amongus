@@ -1,0 +1,28 @@
+$nomention
+$title[👨‍🚀Among us:$randomText[<$mentioned[1]> as cru voir <$mentioned[2]> $randomText[utiliser la ventilation $customEmoji[AU_vent] ! Tu décides donc faire un "emergency meeting".;tuer player 3 $customEmoji[AU_kill]! Tu te précipites sur le corps pour le report.;s'arrêter puis un sabotage à lieu $customEmoji[AU_sabotage]! tu décides donc de faire un "emergency meeting"]]
+
+$description[$customEmoji[AU_crewmatebrown]Player 1 : 
+$randomText[il se passe quoi?; ou?; qui?]
+$customEmoji[AU_crewmateblue]<@$mentioned[1]>:
+ je vous jure j'ai vu <@$mentioned[2]> $randomText[vent;kill;s'arrêter puis saboter. ]
+$customEmoji[AU_crewmateblack]<@$mentioned[2]>                     
+No?! $randomText[$username sus; j'étais à electrical!; Votez <@$mentioned[1]>; ce n'es pas moi, je vous le jure!]
+$customEmoji[AU_crewmatelime] Player 2                       
+$randomText[bon... votons...; rhaaaaa... je sais pas...; allez, je skip; je vote pour $username; je vote pour <@$mentioned[1]>]       
+--------------------------------
+A few seconds later...
+             
+$customEmoji[AU_crewmatebrown]Player 1 Votes:
+$customEmoji[AU_crewmatelime] Player 2 Votes:
+$customEmoji[AU_deadbody]player :x:
+$customEmoji[AU_crewmateblue] <@$mentioned[2]>Votes: ඞඞ                                   
+$customEmoji[AU_crewmateblack] <@$mentioned[1]> Votes: ඞ                                             
+Skipped Voting:
+ඞ
+Après une discussion animée, suffisamment de votes ont été obtenus et <@$mentioned[2]>a été éjecté. Voici les résultats... 
+'  .    '  .      　。　　　　•　    　ﾟ　　。
+　　.　　　.　　　  　　.　　　　　。　　   。　.
+ 　.　　      。　        ඞ   。　    .    •
+ •             <@$mentioned[2]> $randomText[was;was not] the impostor.　 。　.
+　 　　。　　　　　　ﾟ　　　.　　　　　.
+,　　　　.　 .　　       .               。 ]]
