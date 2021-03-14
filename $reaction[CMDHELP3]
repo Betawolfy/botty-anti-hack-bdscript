@@ -1,0 +1,6 @@
+$nomention
+$title[ aide pour les tickets ]
+$description[_help-ticket :
+_new : Permet de créer un nouveau ticket.
+_close : Permet de fermer un ticket.]
+$footer[Ecrit par AQR_Rastiq#1543]
