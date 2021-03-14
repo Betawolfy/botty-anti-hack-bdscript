@@ -1,0 +1,6 @@
+$nomention $deletecommand 
+
+
+$argsCheck[>1;Oop, tu as besoin de ping quelqu'quelqu'un!] 
+$customEmoji[kill]*$username a tué $username[$mentioned[1]]*
+$randomText[https://i.kym-cdn.com/photos/images/original/001/890/995/e1c.gif;https://www.icegif.com/wp-content/uploads/among-us-kill-icegif.gif]
