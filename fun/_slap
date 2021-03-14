@@ -1,0 +1,7 @@
+$nomention
+$nomention $deletecommand 
+
+
+$argsCheck[>1;Oop, tu as besoin de ping quelqu'quelqu'un!] 
+*$username viens de taper   $username[$mentioned[1]]*
+$randomText[https://tenor.com/RUGF.gif;https://gfycat.com/defiantblindhyena;https://tenor.com/bkOur.gif]
