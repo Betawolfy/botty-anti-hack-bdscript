@@ -3,7 +3,7 @@ $title[ aide pour les commandes fun ]
 $description[_help-fun :
 _8ball : Permet de connaître l'avis de la 8 Ball sur une question.
 _amongus : Simule un report Among Us.
-_kill `@mention` @deuxième_mention : Affiche un gif de vous ou quelqu'un de mentionné tuant quelqu'un d'autre de mentionné.
+_kill `@mention` : Affiche un gif de vous ou quelqu'un de mentionné tuant quelqu'un d'autre de mentionné.
 _pat `@mention` : Affiche un gif de vous ou quelqu'un de mentionné faisant un câlin à quelqu'un d'autre de mentionné.
 _slap `@mention` : Affiche un gif de vous ou quelqu'un de mentionné tapant quelqu'un d'autre de mentionné.]
 $footer[Les caractères en surbrillance sont OBLIGATOIRES. Ecrit par AQR_Rastiq#1543]
