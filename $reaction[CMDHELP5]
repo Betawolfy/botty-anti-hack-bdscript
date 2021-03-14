@@ -1,8 +1,0 @@
-$nomention
-$title[ aide pour les commandes premium ]
-$description[_help-premium :
-pre_8ball `question` : Commande _8ball améliorée.
-pre_amongus : Commande _amongus améliorée.
-pre_inject `message` : Permet d'injecter un message.
-pre_rps `rock, paper ou scissors` : Permet de jouer à pierre feuille ciseaux contre le bot (en anglais pour l'instant)]
-$footer[Les caractères en surbrillance sont OBLIGATOIRES. Ecrit par AQR_Rastiq#1543]
