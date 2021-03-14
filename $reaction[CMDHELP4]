@@ -3,9 +3,10 @@ $title[ aide pour les commandes fun ]
 $description[_help-fun :
 _8ball `question`: Permet de connaître l'avis de la 8 Ball sur une question.
 _amongus : Simule un report Among Us.
-_kill `@mention` : Affiche un gif de vous ou quelqu'un de mentionné tuant quelqu'un d'autre de mentionné.
-_pat `@mention` : Affiche un gif de vous ou quelqu'un de mentionné faisant un câlin à quelqu'un d'autre de mentionné.
-_slap `@mention` : Affiche un gif de vous ou quelqu'un de mentionné tapant quelqu'un d'autre de mentionné.
+_kill `@mention` : Affiche un gif de vous tuant quelqu'un de mentionné.
+_pat `@mention` : Affiche un gif de vous faisant un câlin à quelqu'un de mentionné.
+_slap `@mention` : Affiche un gif de vous tapant quelqu'un de mentionné.
+_cry : Affiche un gif de vous en train de pleurer.
 pre_8ball `question` : Commande _8ball améliorée.
 pre_amongus : Commande _amongus améliorée.
 pre_inject `message` : Permet d'injecter un message.
