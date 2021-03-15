@@ -5,7 +5,7 @@ $onlyForServers[756802975351177306;771354021700698142;596306506819960832;7113260
 
 $argsCheck[>2;Oop, tu as besoin de ping au moins deux personnes!]
 
-$title[👨‍🚀Among Us: <@$mentioned[1]> a cru voir <@$mentioned[2]> $randomText[utiliser la ventilation $customEmoji[AU_vent] ! Il décide donc de faire un "emergency meeting".;tuer le joueur 3 $customEmoji[AU_kill]! Il se précipite sur le corps pour le report.;s'arrêter puis saboter $customEmoji[AU_sabotage]! Il décides donc de faire un "emergency meeting"]]
+$title[👨‍🚀Among Us: $randomText[Un crewmate a cru voir quelqu'un $randomText[utiliser la ventilation $customEmoji[AU_vent] ! Il décide donc de faire un "emergency meeting".;tuer le joueur 3 $customEmoji[AU_kill]! Il se précipite sur le corps pour le report.;s'arrêter puis saboter $customEmoji[AU_sabotage]! Il décide donc de faire un "emergency meeting"]]
 
 $description[$customEmoji[AU_crewmatebrown]Joueur 1 : 
 $randomText[Que se passe t'il?; Ou?; Qui?]
