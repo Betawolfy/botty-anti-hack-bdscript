@@ -1,3 +1,5 @@
+$argsCheck[>1;Oop, tu as besoin de me demander une question!]
+
 $title[$message]
 $description[$randomText[oui;non; je ne sais pas.]]
 $footer[vois voulez plus de choix? devenez premium!]

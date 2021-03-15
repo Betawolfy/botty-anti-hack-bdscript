@@ -1,3 +1,5 @@
+$argsCheck[>1;Oop, tu as besoin de me demander une question!]
+
 $nomention
 $color[FF0000]
 $title[$message]
