@@ -1,9 +1,9 @@
+$onlyForServers[756802975351177306;771354021700698142;596306506819960832;711326054966362123;740156565696413766;706191267700146247;:x: votre serveur n'est pas premium]
 $argsCheck[>1;Oop, tu as besoin de me demander une question!]
 
 $nomention
 $color[FF0000]
 $title[$message]
-$onlyForServers[756802975351177306;771354021700698142;596306506819960832;711326054966362123;740156565696413766;706191267700146247;:x: votre serveur n'est pas premium]
 $replyIn[2]
 $botTyping
 $description[$randomText[:8ball: **$username**, certainement pas.;:8ball: **$username**, très probable.;:8ball: **$username**, concentre toi et demande moi à nouveau.;:8ball: **$username**, très douteux.;:8ball: **$username**, les signes indiquent que oui.;:8ball: **$username**, je ne préfère pas te le dire maintenant.;:8ball: **$username**, comme je le vois, oui.;:8ball: **$username**, ne compte pas sur lui.;:8ball: **$username**, il serait temps d'arrêter.;:8ball: **$username**, je n'ai pas envie de te répondre.; :8ball: **$username**,oui.;:8ball: **$username**,non.; :8ball: **$username**, JE REFUSE! C'EST NON!;:8ball: **$username**C'EST OUI, DIRECT]]
