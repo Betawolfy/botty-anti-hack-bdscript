@@ -1,0 +1,6 @@
+$nomention $deletecommand 
+
+
+$argsCheck[>1;Oop, tu as besoin de ping au moins une personne!] 
+$customEmoji[AU_kill]*$username a tiré au pistolet sur $username[$mentioned[1]]*
+$randomText[https://i.imgur.com/JVutfd2.gif?noredirect;https://i.pinimg.com/originals/40/49/b5/4049b559d6f08dc8ac5c174a53d109d4.gif;https://media1.tenor.com/images/562250d97ec5d34f8865ac8602ba5fa4/tenor.gif;https://i.pinimg.com/originals/57/07/6c/57076ccbecb6cba0a491806ee403c31e.gif]
