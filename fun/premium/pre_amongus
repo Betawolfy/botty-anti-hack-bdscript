@@ -5,16 +5,18 @@ $onlyForServers[756802975351177306;771354021700698142;596306506819960832;7113260
 
 $argsCheck[>2;Oop, tu as besoin de ping au moins deux personnes!]
 
-$title[👨‍🚀Among Us:$randomText[<$mentioned[1]> a cru voir <$mentioned[2]> $randomText[utiliser la ventilation $customEmoji[AU_vent] ! Tu décides donc de faire un "emergency meeting".;tuer le joueur 3 $customEmoji[AU_kill]! Tu te précipites sur le corps pour le report.;s'arrêter puis saboter $customEmoji[AU_sabotage]! tu décides donc de faire un "emergency meeting"]]
+$title[👨‍🚀Among Us:$randomText[<@$mentioned[1]> a cru voir <@$mentioned[2]> $randomText[utiliser la ventilation $customEmoji[AU_vent] ! Il décide donc de faire un "emergency meeting".;tuer le joueur 3 $customEmoji[AU_kill]! Il se précipite sur le corps pour le report.;s'arrêter puis saboter $customEmoji[AU_sabotage]! Il décides donc de faire un "emergency meeting"]]
 
 $description[$customEmoji[AU_crewmatebrown]Joueur 1 : 
 $randomText[Que se passe t'il?; Ou?; Qui?]
 $customEmoji[AU_crewmateblue]<@$mentioned[1]>:
  Je vous jure que j'ai vu <@$mentioned[2]> $randomText[vent;kill;s'arrêter puis saboter. ]
+$description[$customEmoji[AU_crewmatebrown]Joueur 1 :
+Ok!
 $customEmoji[AU_crewmateblack]<@$mentioned[2]>                     
 Quoi?! $randomText[$username est très sus!; J'étais à electrical!; Votez <@$mentioned[1]>; Ce n'est pas moi, je vous le jure!]
-$customEmoji[AU_crewmatelime] Joueur 2                       
-$randomText[Bon... votons...; Rhaaaaa... je ne sais pas...; Allez, je skip; Je vote pour $username; Je vote pour <@$mentioned[1]>]       
+$customEmoji[AU_crewmatelime] Joueur 2 :                       
+Bon, moi je skip!       
 --------------------------------
 Quelques secondes plus tard...
              

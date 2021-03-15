@@ -10,10 +10,11 @@ $description[Tu as vu $message $randomText[utiliser la ventilation! Tu décides 
 
 👤 Joueur: $randomText[Que se passe t'il?; Ou?; Qui?]
 👤 $username: Je vous jure que j'ai vu $message $randomText[vent.;kill.;s'arrêter puis saboter. ]
-👤 $message                      
+👤 Joueur: Ok!
+👤 $message :                      
 Quoi?! $randomText[$username est très sus!; J'étais à electrical!; Votez $username; Ce n'est pas moi, je vous le jure!]
-👤 Joueur 2                       
-$randomText[Bon... votons...; Rhaaaaa... je ne sais pas...; Allez, je skip; Je vote pour $username; Je vote pour $message]       
+👤 Joueur 2 :                      
+Allez, je skip!       
 --------------------------------
 Quelques secondes plus tard...
 
