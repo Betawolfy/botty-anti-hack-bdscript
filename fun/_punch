@@ -1,0 +1,6 @@
+$nomention $deletecommand 
+
+
+$argsCheck[>1;Oop, tu as besoin de ping quelqu'quelqu'un!] 
+*$username vient de taper $username[$mentioned[1]]*
+$randomText[https://i.pinimg.com/originals/15/2b/af/152baf4303ec9bf40f33c54b01e3f3fc.gif;https://thumbs.gfycat.com/AmazingAngryCoelacanth-max-1mb.gif;https://media.tenor.com/images/1175cdf430e96e475d39777bced6798d/tenor.gif;https://media.tenor.com/images/af187d245e5705592eda77b0a8c4084c/tenor.gif;https://i1.wp.com/nileease.com/wp-content/uploads/2021/01/2b5d7bb1dd4a8e64869c33499c409582.gif?fit=498%2C280&ssl=1]

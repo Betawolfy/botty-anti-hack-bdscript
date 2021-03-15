@@ -3,5 +3,5 @@ $deletecommand
 
 
 $argsCheck[>1;Oop, tu as besoin de ping quelqu'quelqu'un!] 
-*$username vient de taper $username[$mentioned[1]]*
+*$username vient de mettre une baffe à $username[$mentioned[1]]*
 $randomText[https://tenor.com/RUGF.gif;https://gfycat.com/defiantblindhyena;https://tenor.com/bkOur.gif]
