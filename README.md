@@ -3,6 +3,9 @@ ceci est la page github de la version simplifié de botty anti hack. le code ét
 
 Le profil du bot à été crée en 2018, mais je me suis interéssé au code que depuis Octobre 2020. 
 # actualité
+15/03/2021- La version 2.3 de bottty est sortie!
+    Update 2.3 : Among Us
+
 15/03/2021- startup
     le bot à été rallumé.
 
