@@ -6,7 +6,7 @@ $description[ voici les aides:
 2️⃣ | `_help-modules` montre les modules du bot. 
 3️⃣ | `_help-ticket` : toute les commandes pour les tickets.
 4️⃣ | `_help-fun` : toute les commandes de fun.]
-$footer[n'oubliez pas de consulter la charte d'utilisation avec "_cgu"]
+$footer[si vous voulez ouvrir une autre page, il faut réexécuter la commande.]
 $awaitReactions[CMDHELP1;1️⃣;CMDHELP2;2️⃣;CMDHELP3;3️⃣;CMDHELP4;4️⃣]
 $addReactions[1️⃣;2️⃣;3️⃣;4️⃣]
 $color[#36393f]
