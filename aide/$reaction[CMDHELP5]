@@ -1,0 +1,15 @@
+$nomention
+$title[aide pour les premium]
+$description[ _premium-boost : permet de voir qui est premium et le temps restant.
+------------
+pre_inject (message) {permet de bypass les interdictions des autres bot modérateurs tel que les liens} 
+pre_amongus {mention role crewmate} {mention role imposter} : faire une partie d'amongus. 
+pre_8ball {votre question} : posez une question, je vous donnerai une réponse de manière random.
+----------
+pour devenir premium, il y a plusieurs méthodes: 
+Première méthode: il vous faut mettre une étoile sur le Github du bot: vous aurez le premium indéfiniment. (compte github requis).
+deusième méthode: il vous faut faire un partenatiat: le propriétaire aura le premium pendent tout le temps du partenatiat et il pourra choisir une personne qui aura le premium pour 3 mois. 
+troisième méthode: il vous faut être actif dans la recherche de bug, de proposition de nouveautés ou la recherches de fautes d'orthographes. 
+PS: pour un monde meilleur, je ne demenderai pas d'argent contre des commendes.]
+$color[54ff00]
+$addReactions[💵;💶;💸;💰;🚫]
