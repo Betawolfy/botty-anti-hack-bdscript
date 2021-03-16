@@ -18,3 +18,5 @@ Une description claire et concise de toutes les solutions ou fonctionnalités al
 
 **Contexte supplémentaire**
 Ajoutez ici tout autre contexte ou capture d'écran concernant la demande de fonctionnalité.
+
+# à déposer rempli dans le salon "suggestion" du support de discord ou dans la catégorie "issues" du github (création d'un compte github requis, mais visibilité plus élevé)
