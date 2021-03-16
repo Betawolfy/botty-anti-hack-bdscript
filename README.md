@@ -4,6 +4,9 @@ ceci est la page github de la version simplifié de botty anti hack. le code ét
 Le profil du bot à été crée en 2018, mais je me suis interéssé au code que depuis Octobre 2020.
 
 # status du bot: 
+16/03/2021 - 14:25: **en ligne**
+    - push du moyen de devenir premium. 
+
 16/03/2021 - 13:46: **en ligne**.
 
 # actualité
