@@ -1,6 +1,6 @@
 $nomention
 $argsCheck[1;:x: Vous devez sélectionner soit pierre, feuille ou ciseaux.]
-$onlyForServers[756802975351177306;771354021700698142;596306506819960832;711326054966362123;740156565696413766;706191267700146247;:x: votre serveur n'est pas premium]
+$onlyForIDs[432116536866766849;499297738370973716;719463073416609854;761557783140368404;:x: tu n'es pas premium, pour savoir comment le devenir? `_help-premium]
 $onlyIf[$checkCondition[$toLowercase[$message[1]]==pierre]-$checkCondition[$toLowercase[$message[1]]==feuille]-$checkCondition[$toLowercase[$message[1]]==ciseaux]!=false-false-false;:x: Vous devez sélectionner soit pierre, feuille ou ciseaux..]
 $title[RPS‏]
 $description[Vous avez choisi **$replaceText[$replaceText[$replaceText[$toLowercase[$message[1]];pierre;Pierre;1];feuille;Feuille;1];ciseaux;Ciseaux;1]**, le bot a choisi**$randomText[Pierre;Feuille;Ciseaux]**.
