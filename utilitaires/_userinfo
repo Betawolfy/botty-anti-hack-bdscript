@@ -1,0 +1,11 @@
+$nomention
+$title[:pencil: information de l'utilisateur :pencil: ]
+$userInfo[ information sur: $username[$mentioned[<]]:
+$customEmoji[DC_member]Username: {username}
+$customEmoji[DP_stat_setting]Identifient : {ID}
+$customEmoji[DC_channelunlock]Tag: {discriminator}
+$customEmoji[DC_bell]Créé le : $creationDate[$mentioned[<]]
+$customEmoji[DP_security_setting] Compte avec A2F: {verified} 
+$customEmoji[DB_bot] Badge.bot/Badge.verified.bot: {BOT}]
+$footer[null]
+$color[$random[100000;999999]]
