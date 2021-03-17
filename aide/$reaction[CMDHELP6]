@@ -1,0 +1,6 @@
+$title[ aide pour les commendes utilitaires]
+$description[_help-utilities: 
+_serverinfo : Permet de voir les informations du serveur.
+_optiwork: montre le niveau de sécurité de botty sur une échelle de critères
+_serverlist : afficher la liste des serveurs qui font confiance à botty.]
+$footer[null]
