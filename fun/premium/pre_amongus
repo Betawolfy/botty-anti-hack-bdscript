@@ -10,7 +10,7 @@ $title[👨‍🚀Among Us: Un crewmate a cru voir quelqu'un $randomText[utilise
 $description[$customEmoji[AU_crewmatebrown]Joueur 1 : 
 $randomText[Que se passe t'il?; Ou?; Qui?]
 $customEmoji[AU_crewmateblue]<@$mentioned[1]>:
- Je vous jure que j'ai vu <@$mentioned[2]> $randomText[vent;kill;s'arrêter puis saboter. ]
+Je vous jure que j'ai vu <@$mentioned[2]> $randomText[vent;kill;s'arrêter puis saboter. ]
 $customEmoji[AU_crewmatebrown]Joueur 1 :
 Ok!
 $customEmoji[AU_crewmateblack]<@$mentioned[2]>                     
