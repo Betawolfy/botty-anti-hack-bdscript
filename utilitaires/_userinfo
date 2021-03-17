@@ -1,4 +1,5 @@
 $nomention
+$argsCheck[>1;Oop, tu as besoin d'écrire le nom d'une personne!]
 $title[:pencil: information de l'utilisateur :pencil: ]
 $userInfo[ information sur: $username[$mentioned[<]]:
 $customEmoji[DC_member]Username: {username}
