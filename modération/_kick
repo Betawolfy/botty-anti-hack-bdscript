@@ -1,0 +1,6 @@
+$KickMention $nomention
+$description[ $username à expulsé $mentionned 
+$OnlyAdmin[Tu dois être admin pour exécuter cette commande]]
+$color[ff276]
+$title[]
+$footer[KICK!]
