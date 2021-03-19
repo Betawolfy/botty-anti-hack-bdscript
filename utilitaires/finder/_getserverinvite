@@ -1,5 +1,5 @@
-$time[Paris]
+$time[Europe/Paris]
 $nomention
 $title[Voici une invitation temporaire vers le serveur $serverName[$message]:]
-$description[$getserverinvite[$message]]
-$footer[requête demandé par $username le $date à $hour h $minute min $seconde sec]
+$description[$getServerInvite[$message] ]
+$footer[requête demandé par $username le $date à $hour h $minute min $second sec]
