@@ -9,4 +9,4 @@ $customEmoji[DC_bell]Créé le : $creationDate[$mentioned[<]]
 $customEmoji[DP_security_setting] Compte avec A2F: {verified} 
 $customEmoji[DB_bot] Badge.bot/Badge.verified.bot: {BOT}]
 $footer[null]
-$color[$random[100000;999999]]
+$color[$randomText[100000;999999]]
