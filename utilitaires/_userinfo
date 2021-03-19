@@ -9,4 +9,4 @@ Créé le : $creationDate[$mentioned[<]]
 Compte avec A2F: {verified} 
 Badge.bot/Badge.verified.bot: {BOT}]
 $footer[null]
-$color[$randomText[100000;999999]]
+$color[100000]
