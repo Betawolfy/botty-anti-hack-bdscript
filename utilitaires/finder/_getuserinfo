@@ -1,0 +1,14 @@
+$nomention
+$argsCheck[>1;Oop, tu as besoin d'écrire le nom d'une personne!]
+$title[:pencil: information sur l'utilisateur :pencil: ]
+$userInfo[ information paramètres sur: $username[$mentioned[<]]:
+Username: {username}
+Identifient : {ID}
+Tag: {discriminator}
+Créé le : $creationDate[$mentioned[<]]
+Compte avec A2F: {verified} 
+Badge.bot/Badge.verified.bot: {BOT}
+message privé activé: $isUserDMEnabled[$mentioned[<]
+]
+$footer[null]
+$color[$randomText[100000;999999]]
