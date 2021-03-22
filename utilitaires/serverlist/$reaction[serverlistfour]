@@ -13,5 +13,7 @@ https://discord.gg/UygrjjCdTg
 :memo: : support
 :x: :interdit d'accès 
 :white_check_mark: : ouvert]
-$footer[pour consulter les autres pages: _serverlist]
+$footer[◀: page précédente]
 $color[ffa300]
+$awaitReactions[serverlistthree;◀]
+$addReactions[◀]
