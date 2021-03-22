@@ -27,3 +27,5 @@ Team des profondeurs          |:shield: :white_check_mark:
 :white_check_mark: : ouvert]
 $footer[pour consulter les autres pages: _serverlist]
 $color[ffa300]
+$awaitReactions[serverlistone;◀;serverlistthree;▶]
+$addReactions[◀;▶]
