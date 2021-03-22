@@ -1,5 +1,5 @@
 $nomention
-$title[liste des serveurs (page 1/2)]
+$title[liste des serveurs (page 1/4)]
 $description[ 
 ------------------------------|-----------------------------|
 Botty Support                 |:shield: :memo: :white_check_mark:
@@ -27,3 +27,5 @@ https://discord.gg/AJ3k3q6C7Y
 :white_check_mark: : ouvert]
 $footer[pour consulter les autres pages: _serverlist]
 $color[ffa300]
+$awaitReactions[serverlisttwo;▶]
+$addReactions[▶]
