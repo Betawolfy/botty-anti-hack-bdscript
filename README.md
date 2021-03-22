@@ -35,4 +35,4 @@ Le profil du bot à été crée en 2018, mais je me suis interéssé au code que
 
 12/03/2021- Je souhaite ne plus être le seul dévellopeur de Botty, c'est pourquoi je coderai désormais le bot en BDscript, le language de code de l'application mobile 'Bot Designer For Discord".
 
-https://discord.com/api/guilds/596306506819960832/widget.json
+<iframe src="https://discord.com/widget?id=596306506819960832&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
