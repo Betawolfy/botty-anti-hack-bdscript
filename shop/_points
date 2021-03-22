@@ -1,0 +1,5 @@
+$nomention
+$author[Monnaie]
+$authorIcon[$authorAvatar]
+$description[💰 | Vous avez :$getUserVar[points] point(s) boutique.]
+$color[#ff2050]

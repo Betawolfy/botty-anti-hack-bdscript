@@ -2,5 +2,8 @@ $title[ aide pour les commendes utilitaires]
 $description[_help-utilities: 
 _serverinfo : Permet de voir les informations du serveur.
 _optiwork: montre le niveau de sécurité de botty sur une échelle de critères
-_serverlist : afficher la liste des serveurs qui font confiance à botty.]
+_serverlist : afficher la liste des serveurs qui font confiance à botty.
+_daily : Vous donne des points boutique quotidiennement. (Si vous avez une erreur, faites _pointsfix)
+_points : Affiche votre nombre de points boutique.
+_pointsfix : Fix votre système de points.]
 $footer[null]
