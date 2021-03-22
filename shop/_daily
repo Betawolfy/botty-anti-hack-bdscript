@@ -1,0 +1,10 @@
+$cooldown[240;vous devez attendre %time-h% %time-m% avent de pouvoir refaire cette commande]
+$nomention
+$color[$random[10999;99999]]
+$description[
+voici votre récompense quotidienne:  `$random[5;10]`!
+
+Note: vous pouvez regarder quoi faire avec ces points avec la commande `_shop`]
+$footer[faites "_point" voir voir combien vous avez de point et comment en gagner]
+$author[version test]
+$setUserVar[point;$random[5;10]]
