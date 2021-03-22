@@ -25,5 +25,7 @@ https://discord.gg/wfjRKfUEGN
 :memo: : support
 :x: :interdit d'accès 
 :white_check_mark: : ouvert]
-$footer[pour consulter les autres pages: _serverlist]
+$footer[◀: page précédente| ▶: page suivante]
 $color[ffa300]
+$awaitReactions[serverlisttwo;◀;serverlistfour;▶]
+$addReactions[◀;▶]
