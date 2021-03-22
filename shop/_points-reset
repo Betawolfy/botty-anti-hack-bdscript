@@ -1,7 +1,7 @@
 $nomention
 $color[$random[10999;99999]]
 $description[
-Système de points fixée !]
+Système de points reset !]
 
 $author[version test]
 $setUserVar[points;0]
