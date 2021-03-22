@@ -2,7 +2,9 @@ $nomention
 $title[Base de données des serveurs]
 $description[choisissez la page que vous voulez.
 1️⃣: page 1
-2️⃣: page 2]
+2️⃣: page 2
+3️⃣: page 3
+4️⃣: page 4]
 $footer[une seule page peut être choisi par commande. pour visionner les autres pages, veuillez ré exécuter la commande]
- $awaitReactions[serverlistone;1️⃣;serverlisttwo;2️⃣]
-$addReactions[1️⃣;2️⃣]
+ $awaitReactions[serverlistone;1️⃣;serverlisttwo;2️⃣;serverlistthree;3️⃣;serverlistfour;4️⃣]
+$addReactions[1️⃣;2️⃣;3️⃣;4️⃣]
