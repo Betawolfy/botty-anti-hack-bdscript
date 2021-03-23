@@ -1,4 +1,4 @@
-$cooldown[24h;vous devez attendre %time-h% %time-m% avent de pouvoir refaire cette commande]
+$cooldown[24h;vous devez attendre %time-h% avent de pouvoir refaire cette commande]
 $nomention
 $color[$random[10999;99999]]
 $description[
@@ -7,5 +7,4 @@ Voici votre récompense quotidienne:  `$random[5;10]` points boutique!
 Note: vous pouvez regarder quoi faire avec ces points avec la commande `_shop`]
 $footer[faites "_points" voir voir combien vous avez de point et comment en gagner]
 $author[version test]
-
-$setUserVar[money;$sum[$getUserVar[points];$random[5;10]]]
+$setUserVar[pts;$sum[$getUserVar[pts];$random[5;10]]]
