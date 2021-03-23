@@ -4,20 +4,13 @@ ceci est la page github de la version simplifié de botty anti hack. le code ét
 Le profil du bot à été crée en 2018, mais je me suis interéssé au code que depuis Octobre 2020.
 
 # status du bot: 
-
-17/03/2021 - 11:00: **en ligne**
     - la page de status du bot à été crée!
     - https://twitter.com/BottyStatus
 
-17/03/2021 - 09:06: **en ligne**
-    -update 2.3.1
-
-16/03/2021 - 14:25: **en ligne**
-    - push du moyen de devenir premium. 
-
-16/03/2021 - 13:46: **en ligne**.
-
 # actualité
+23/03/2021- le bakban sera ajouté très prochainemnt. mais le code est, comme l'intégralité de ce code, open source. 
+          - https://github.com/AQRRastiq/bakban-opensource
+
 17/03/2021- update 2.3.1 sorti! voir le Github partie "releases".
 
 15/03/2021- La version 2.3 de botty est sortie!
