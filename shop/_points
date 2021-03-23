@@ -1,5 +1,11 @@
 $nomention
 $author[Point]
 $authorIcon[$authorAvatar]
-$description[💰 | Vous avez :$getUserVar[pts] point(s) boutique.]
+$description[💰 | Vous avez :$getUserVar[pts] point(s) boutique.
+:thinking: - mais comment gagner des points?
+_daily
+> vous pouvez faire la commande _daily, vous gagnerez entre 5 et 10 points tout les 24 heures. 
+> un partenariat = 10 pts par mois.
+> membres premium = 5 pts par mois
+> dépot d'une issue/suggestion sur le github = 3 pts/dêpot.]
 $color[#ff2050]
