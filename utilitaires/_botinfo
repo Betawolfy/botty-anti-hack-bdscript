@@ -1,0 +1,16 @@
+$deletecommand
+$nomention
+$title[BOT INFO]
+$description[Prefixe: ``_``
+nom du bot: ``Botty``
+version: 2.3.2
+Ping: ``$ping MS``
+dernier redémarrage: $uptime
+Bot ID: ``675921831265304577``
+Serveurs: ``$serverCount``
+Utilisateurs: ``$allMembersCount``
+nombre de commandes: ``$commandsCount``
+]
+$color[FFFF2]
+$addTimestamp
+$authorIcon[$authorAvatar]
