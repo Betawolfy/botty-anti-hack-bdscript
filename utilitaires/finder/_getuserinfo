@@ -1,6 +1,6 @@
 $nomention
 $argsCheck[>1;Oop, tu as besoin de l'ID de quelqu'un!]
-$title[:pencil: information sur l'utilisateur :pencil: ]
+$title[information sur l'utilisateur :pencil: ]
 $description[ informations système sur: $message
 pseudonyme: $username[$message]
 tag: $discriminator[$message]
