@@ -1,2 +1,5 @@
 $nomention
-$userExists
+$argsCheck[>1;Oop, tu as besoin de l'ID de quelqu'un!]
+$title[userfinder v.1-al]
+$description[est-ce que l'utilisateur existe : $userExists ]
+$footer[true: il existe | false : il n'existe pas]

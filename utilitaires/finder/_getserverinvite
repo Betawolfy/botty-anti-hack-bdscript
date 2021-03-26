@@ -1,4 +1,5 @@
 $time[Europe/Paris]
+$argsCheck[>1;Oop, tu as besoin de l'ID d'un serveur!]
 $nomention
 $title[Voici une invitation temporaire vers le serveur $serverName[$message]:]
 $description[$getServerInvite[$message] ]
