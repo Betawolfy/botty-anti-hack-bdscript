@@ -15,9 +15,9 @@ $serverInfo[
 {verificationLvl}
 
 :bust_in_silhouette:|**Membres (hors bot)** : $membersCount
-:+1:|**En ligne** : $membersCount[online]
-:angry:|**Ne pas déranger** : $membersCount[dnd]
-:sleeping:|**Inactif** : $membersCount[idle]
+:green_circle:|**En ligne** : $membersCount[online]
+:red_circle:|**Ne pas déranger** : $membersCount[dnd]
+:orange_circle:|**Inactif** : $membersCount[idle]
 
 :label:|**rôles** :
 nombre: $roleCount
