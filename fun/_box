@@ -1,6 +1,6 @@
 $nomention
-$title[$randomText[rollement de tambours...;tirage en cours;que vas-tu obtenir?]$editIn[3s;$randomtext[:memo: : rôle testeur;:sparkles: : 3 mois de premium;:star: : 1 semaine de premium;:x: rien;:x: rien;:x: rien;:x: rien;:x: rien]]]
-$description[lot: 
+$title[$randomText[rollement de tambours...;tirage en cours;que vas-tu obtenir?]$editIn[3s;$randomText[:memo: : rôle testeur;:sparkles: : 3 mois de premium;:star: : 1 semaine de premium;:x: : rien;:x: : rien;:x: : rien;:x: : rien;:x: : rien]]]
+$description[lots: 
 rôle testeur :memo:
 3 mois de premium :sparkles:
 1 semaine de premium :star:
