@@ -1,8 +1,10 @@
 $nomention
-$title[$randomText[rollement de tambours...;tirage en cours;que vas-tu obtenir?]$editIn[3s;$randomText[:memo: : rôle testeur;:sparkles: : 3 mois de premium;:star: : 1 semaine de premium;:x: : rien;:x: : rien;:x: : rien;:x: : rien;:x: : rien]]]
+
+$cooldown[2m;Vous devez attendre %time-m% avant de pouvoir refaire cette commande !]
+$title[$randomText[Rollement de tambours...;Tirage en cours...;Que vas-tu obtenir ?]$editIn[3s;$randomText[:memo: : Rôle testeur;:sparkles: : 3 mois de premium;:star: : 1 semaine de premium;:x: : Rien;:x: : Rien;:x: : Rien;:x: : Rien;:x: : Rien]]]
 $description[lots: 
-rôle testeur :memo:
-3 mois de premium :sparkles:
-1 semaine de premium :star:
-rien :x:]
+Rôle testeur : :memo:
+3 mois de premium : :sparkles:
+1 semaine de premium : :star:
+Rien : :x:]
 $footer[si tu gagnes, va sur le support et réclame ton lot!]
