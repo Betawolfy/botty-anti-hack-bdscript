@@ -8,6 +8,9 @@ Le profil du bot à été crée en 2018, mais je me suis interéssé au code que
     - https://twitter.com/BottyStatus
 
 # actualité
+
+3/04/2021- Le code source du système Bak-Ban de Botty a été déplacé à cette URL : https://github.com/DiscordBotty/bakban-opensource
+
 23/03/2021- le bakban sera ajouté très prochainemnt. mais le code est, comme l'intégralité de ce code, open source. 
           - https://github.com/AQRRastiq/bakban-opensource
 
