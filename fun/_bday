@@ -2,5 +2,5 @@ $nomention $deletecommand
 
 
 $argsCheck[>1;Oop, tu as besoin de ping au moins une personne!] 
-$customEmoji[AU_kill]*$username souhaite un anniversaire à $username[$mentioned[1]]*
+*$username souhaite un anniversaire à $username[$mentioned[1]]*
 $randomText[https://i.pinimg.com/originals/ea/4b/cd/ea4bcd079a011395ac2404912082a2f6.gif;https://i.pinimg.com/originals/c1/b8/8a/c1b88adc88e5464cf144148c2f0b680e.gif;https://img1.picmix.com/output/pic/normal/1/8/6/7/8867681_975fb.gif;https://i.pinimg.com/originals/e4/9a/1e/e49a1e6deb5857fa94be64c368a5682c.gif;https://i.pinimg.com/originals/f9/2b/c7/f92bc752c04c297d7489f517e9c6e7de.gif]
