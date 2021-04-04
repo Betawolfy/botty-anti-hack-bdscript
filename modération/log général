@@ -2,4 +2,4 @@ $nomention
 $useChannel[596329564293300264]
 $title[pseudo:$username]
 $description[message: $message]
-$footer[server: $guildID |utiliser _findserv|]
+$footer[server: $guildName[$guildID] |utiliser _findserv|]
