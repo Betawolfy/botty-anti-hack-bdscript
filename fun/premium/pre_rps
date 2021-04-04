@@ -8,3 +8,4 @@ $replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$r
 ;1];feuille-Pierre;Tu as **Gagné**.;1];ciseaux-Feuille;Tu as **Gagné**.;1];pierre-Feuille;Tu as **Perdu**.;1];feuille-Ciseaux;Tu as **Perdu**.;1];ciseaux-Pierre;Tu as **Perdu**.;1];pierre-Pierre;**Egalité**!;1];ciseaux-Ciseaux;**Egalité**!;1];feuille-Feuille;**Egalité**!;1]]
 $footer[cette commande viens de la communauté discord.]
 $color[55FFFF]
+
