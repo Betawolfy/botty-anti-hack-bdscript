@@ -9,6 +9,7 @@ _slap `@mention` : Affiche un gif de vous mettant une baffe à quelqu'un de ment
 _cry : Affiche un gif de vous en train de pleurer.
 _punch `@mention` : Affiche un gif de vous tapant quelqu'un de mentionné.
 _bang `@mention` : Affiche un gif de vous tirant au pistolet sur quelqu'un de mentionné.
+_bday `@mention` : Souhaite un anniversaire à quelqu'un de mentionné.
 pre_8ball `question` : Commande _8ball améliorée.
 pre_amongus : Commande _amongus améliorée.
 pre_inject `message` : Permet d'injecter un message.
