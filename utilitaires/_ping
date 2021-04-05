@@ -1,10 +1,10 @@
 $nomention
-$if[$ping<=100]
-Votre ping: $ping.
+$if[$ping<=200]
+Ping: $ping.
 Statut : Stable
 $endif
-$if[$ping>=300]
-Votre ping: $ping.
+$if[$ping>=200]
+Ping: $ping.
 Statut : Instable
 $endif
 $suppressErrors[:x: Quelque chose s'est mal passé, veuillez réessayer plus tard.]
