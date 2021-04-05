@@ -1,0 +1,11 @@
+$nomention
+$if[$ping<=100]
+Votre ping: $pingms.
+Statut : Stable
+$endif
+$if[$ping=>300]
+Votre ping: $pingms.
+Statut : Instable
+$endif
+$suppressErrors[:x : Quelque chose s'est mal passé, veuillez réessayer plus tard.]
+$cooldown [5s;Woah ! un peu rapide là.]
