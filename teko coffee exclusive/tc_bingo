@@ -1,0 +1,8 @@
+$nomention
+$argsCheck[1;:x: Vous devez sélectionner un nombre entre 1 et 3 (pour le test).]
+$title[bingo‏]
+$description[Vous avez choisi **$replaceText[$replaceText[$replaceText[$toLowercase[$message[1]];1;le nombre 1;1];2;le nombre 2;1];3;le nombre 3;1]**, le bot a choisi**$randomText[1;2;3]**.
+$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$toLowercase[$message[1]]-$randomText[1;2;3];1-1;Tu as **Gagné**
+;1];2-2;Tu as **Gagné**.;1];3-3;Tu as **Gagné**.;1];1-2;Tu as **Perdu**.;1];1-3;Tu as **Perdu**.;1];2-1;Tu as **Perdu**.;1];2-3;Tu as **Perdu**.;1];3-1;Tu as **Perdu**.;1];3-2;Tu as **Perdu**.;1]]
+$footer[commande encore en test | commande exclusive pour le serveur Teko coffee]
+$color[55FFFF]

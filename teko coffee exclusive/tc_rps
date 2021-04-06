@@ -1,0 +1,13 @@
+$nomention
+$onlyForServers[807582681281986620;:x: cette commande est exclusive pour un serveur. veuillez rejoindre le serveur teko coffee via `_serverlist` pour utiliser cette commande.]
+$cooldown[5s;vous devez attendre %time-s% avent de pouvoir refaire cette commande]
+$argsCheck[1;:x: Vous devez sélectionner soit pierre, feuille ou ciseaux.]
+$setUserVar[winrpc;$sum[$getUserVar[winrpc];1]]
+$author[tu as déjà essayé $getUserVar[winrpc] fois.]
+$onlyIf[$checkCondition[$toLowercase[$message[1]]==pierre]-$checkCondition[$toLowercase[$message[1]]==feuille]-$checkCondition[$toLowercase[$message[1]]==ciseaux]!=false-false-false;:x: Vous devez sélectionner soit pierre, feuille ou ciseaux..]
+$title[RPS‏]
+$description[Vous avez choisi **$replaceText[$replaceText[$replaceText[$toLowercase[$message[1]];pierre;Pierre;1];feuille;Feuille;1];ciseaux;Ciseaux;1]**, le bot a choisi**$randomText[Pierre;Feuille;Ciseaux]**.
+$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$toLowercase[$message[1]]-$randomText[Pierre;Feuille;Ciseaux];pierre-Ciseaux;Tu as **Gagné**
+;1];feuille-Pierre;Tu as **Gagné**.;1];ciseaux-Feuille;Tu as **Gagné**.;1];pierre-Feuille;Tu as **Perdu**.;1];feuille-Ciseaux;Tu as **Perdu**.;1];ciseaux-Pierre;Tu as **Perdu**.;1];pierre-Pierre;**Egalité**!;1];ciseaux-Ciseaux;**Egalité**!;1];feuille-Feuille;**Egalité**!;1]]
+$footer[si tu à gagné, tu remporte $randomText[1 300$;50 points pour votre clan]| commende exclusive pour le serveur Teko coffee]
+$color[55FFFF]
