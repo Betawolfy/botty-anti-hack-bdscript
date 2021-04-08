@@ -1,3 +1,5 @@
 $nomention
-$setUserVar[premium;1]
+$onlyForIDs[499297738370973716;432116536866766849; :x: Tu n'as pas la permission d'exécuter cette commande !]
+$argsCheck[>1;Oop, tu as besoin de ping au moins une personne!]
+$setUserVar[premium;1;$mentioned[1]]
 $mentioned[1] est devenu premium!
