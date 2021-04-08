@@ -1,4 +1,4 @@
-$onlyForIDs[432116536866766849;499297738370973716;719463073416609854;761557783140368404;721039033500827699;705147286770024458;:x: tu n'es pas premium, pour savoir comment le devenir? `_help-premium]
+$onlyIf[$getUserVar[premium]==1;:x: tu n'es pas premium, pour savoir comment le devenir? `_help-premium]
 $nomention
 $deletecommand
 $customEmoji[DS_please_wait] injection du message...

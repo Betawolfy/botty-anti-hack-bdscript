@@ -1,8 +1,7 @@
 $nomention 
-<@$mentioned[1]> 
 $if[$getUserVar[premium;$mentioned[1]]==0]
-n'est pas premium
+<@$mentioned[1]> n'est pas premium
 $endif
 $if[$getUserVar[premium;$mentioned[1]]==1]
-est premium
+<@$mentioned[1]> est premium
 $endif
